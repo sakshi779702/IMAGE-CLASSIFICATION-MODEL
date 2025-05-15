@@ -51,3 +51,6 @@ Applications:
 Conclusion:
 This project successfully demonstrates how to build and evaluate a CNN-based image classification model using TensorFlow and Keras. The step-by-step approach—covering preprocessing, architecture design, training, and evaluation—makes it an excellent hands-on example for beginners and intermediate learners in deep learning. The model is scalable and can be fine-tuned for higher accuracy with larger and more complex datasets, making it a powerful foundation for real-world applications.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/8f163981-d577-42d8-a4de-194e887e51d3)
